@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>scala.new</id>
+    <version>2.12.1</version>
+    <owners>Junichi Kato</owners>
+    <title>Scala (New Install)</title>
+    <authors>Junichi Kato</authors>
+    <projectUrl>https://github.com/j5ik2o/chocolatey-scala</projectUrl>
+    <tags>scala</tags>
+    <summary>The Scala install package for new version</summary>
+    <description>The Scala install package for new version</description>
+    <dependencies>
+      <dependency id="jdk8" version="8.0.121" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
