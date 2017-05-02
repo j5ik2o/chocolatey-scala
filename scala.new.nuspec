@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>scala.new</id>
-    <version>2.12.1</version>
+    <version>2.12.2</version>
     <owners>Junichi Kato</owners>
     <title>Scala (New Install)</title>
     <authors>Junichi Kato</authors>
