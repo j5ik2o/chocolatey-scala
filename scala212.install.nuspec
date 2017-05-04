@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>scala.new</id>
+    <id>scala212.install</id>
     <version>2.12.2</version>
     <owners>Junichi Kato</owners>
-    <title>Scala (New Install)</title>
+    <title>Scala 2.12</title>
     <authors>Junichi Kato</authors>
     <projectUrl>https://github.com/j5ik2o/chocolatey-scala</projectUrl>
     <tags>scala</tags>
-    <summary>The Scala install package for new version</summary>
-    <description>The Scala install package for new version</description>
+    <summary>The Scala install package for Scala 2.12.x</summary>
+    <description>The Scala install package for Scala 2.12.x</description>
     <dependencies>
       <dependency id="jdk8" version="8.0.121" />
     </dependencies>
